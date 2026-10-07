@@ -13,7 +13,7 @@ Desk Monster turns a Raspberry Pi 4B into a small desktop companion. Instead of 
 5. Complete tasks to earn points, then spend them on food and care items for your monster.
 6. The monster reacts to how your day is going. It gets happy when you make progress, hungry when you don't, and worried when today's plan is more than you usually get done in a day.
 
-## Role of the language model
+## Features
 
 - **Task capture:** turns natural-language input into structured tasks (title, deadline phrase, priority) as grammar-constrained JSON. Dates are calculated in code.
 - **Task breakdown:** splits big or vague tasks into a few concrete steps.
